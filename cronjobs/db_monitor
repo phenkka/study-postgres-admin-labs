@@ -1,0 +1,1 @@
+*/5 * * * * root /scripts/monitor_failed_logins.sh

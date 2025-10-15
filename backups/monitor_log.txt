@@ -1,0 +1,13 @@
+Wed Oct 15 05:13:57 UTC 2025: /var/lib/postgresql/data/log/postgresql-2025-10-15_043550.log:0
+/var/lib/postgresql/data/log/postgresql-2025-10-15_050502.log:6
+/var/lib/postgresql/data/log/postgresql-2025-10-15_051305.log:15 failed login(s) found
+Wed Oct 15 05:15:52 UTC 2025: 21 failed login(s) found
+Wed Oct 15 05:15:52 UTC 2025: ALERT! 21 failed login attempts detected!
+Wed Oct 15 05:16:36 UTC 2025: 36 failed login(s) found
+Wed Oct 15 05:16:36 UTC 2025: ALERT! 36 failed login attempts detected!
+Wed Oct 15 05:19:18 UTC 2025: 43 failed login(s) found
+Wed Oct 15 05:19:18 UTC 2025: ALERT! 43 failed login attempts detected!
+Wed Oct 15 05:31:04 UTC 2025: 51 failed login(s) found
+Wed Oct 15 05:31:04 UTC 2025: ALERT! 51 failed login attempts detected!
+Wed Oct 15 05:37:46 UTC 2025: 59 failed login(s) found
+Wed Oct 15 05:37:46 UTC 2025: ALERT! 59 failed login attempts detected!
